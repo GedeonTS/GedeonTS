@@ -19,7 +19,7 @@
 <img  align="center"  src="https://img.icons8.com/doodle/2x/instagram.png"  height="40"  width="40"  /></a>
 </p>
 
-<b/>
+<br/>
 
 ### About Me 🚀 <br>
 
@@ -27,6 +27,13 @@
 -  👩‍💻 I’m currently studying and training to become a **Full-Stack Software Engineer** in a remote and multicultural environment at 
 [Microverse](https://www.microverse.org/). <br></br>
 - 💻 All **my projects** are available [here.](https://github.com/GedeonTS?tab=repositories).<br><br>
+
+
+### Certificates & Licenses 🥇
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/d69c5dbd-65da-4d7f-aac6-61f8c7d0eeb9#gs.y6n1wo" target="blank"><img src="./images/html-css-badge.png" width="80"></a> 
+</p>
+
 
 <!--
 **GedeonTS/GedeonTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
