@@ -20,6 +20,7 @@
 </p>
 
 <br/>
+<img align='right' src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" width="300"><br>
 
 ### About Me 🚀 <br>
 
