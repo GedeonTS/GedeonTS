@@ -29,6 +29,22 @@
 [Microverse](https://www.microverse.org/). <br></br>
 - 💻 All **my projects** are available [here.](https://github.com/GedeonTS?tab=repositories).<br><br>
 
+---
+
+
+
+
+```javascript
+const GedeonTS = {
+  lookingFor: " "Full-stack web developer",
+  pronouns: ["Him"],
+  code: [...JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap],
+  challenge: [..."I am sharpening my developper skills and picking up TypeScript"]
+}
+```
+
+---
+
 
 ### Certificates & Licenses 🥇
 <p align="left">
