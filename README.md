@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Gedeon!<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"></h1>
 
 <!--
 **GedeonTS/GedeonTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
