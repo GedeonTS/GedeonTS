@@ -19,6 +19,15 @@
 <img  align="center"  src="https://img.icons8.com/doodle/2x/instagram.png"  height="40"  width="40"  /></a>
 </p>
 
+<b/>
+
+### About Me 🚀 <br>
+
+- 🎓 I'm holding a bachelor degree in Electronics and telecommunications Engineering from Kigali Independent University.</br><br>
+-  👩‍💻 I’m currently studying and training to become a **Full-Stack Software Engineer** in a remote and multicultural environment at 
+[Microverse](https://www.microverse.org/). <br></br>
+- 💻 All **my projects** are available [here.](https://github.com/GedeonTS?tab=repositories).<br><br>
+
 <!--
 **GedeonTS/GedeonTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
