@@ -28,16 +28,19 @@
 -  👩‍💻 I’m currently training to become a **Full-Stack Software Engineer** in a remote and multicultural environment at 
 [Microverse](https://www.microverse.org/). <br></br>
 - 💻 All **my projects** are available [here.](https://github.com/GedeonTS?tab=repositories).<br><br>
-----
+---
 
 
 
 
 ```javascript
 const GedeonTS = {
-  lookingFor: "Full-stack web developer",
+  Status: "Full-stack web developer",
   pronouns: ["Him","he"],
+  location:[Kigali,Rwanda],
   code: [...Python,JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap],
+  mostPrefered:[JavaScript, React],
+  mostUsed:[ React, Redux, Ruby on Rails],
   challenge: [..."I am sharpening my developper skills and picking up TypeScript"]
 }
 ```
