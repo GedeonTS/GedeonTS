@@ -49,6 +49,11 @@ const GedeonTS = {
   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/9ff1c1c4-b288-4851-a8aa-41789ae574ce" target="blank"><img src="./certificate.png" width="80"></a> 
 </p>
 
+---
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em>Meeting people really delights me so if you want to say hello, I'll be happy to meet you! 😊 </em>
+
+
 
 <!--
 **GedeonTS/GedeonTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
