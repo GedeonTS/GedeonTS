@@ -24,7 +24,7 @@
 
 ### About Me  <br>
 
-- 🎓 I'm holding a bachelor degree in Electronics and telecommunications Engineering from Kigali Independent University.</br><br>
+- 🎓 I hold a bachelor degree in Electronics and telecommunications Engineering from Kigali Independent University.</br><br>
 -  👩‍💻 I’m currently training to become a **Full-Stack Software Engineer** in a remote and multicultural environment at 
 [Microverse](https://www.microverse.org/). <br></br>
 - 💻 All **my projects** are available [here.](https://github.com/GedeonTS?tab=repositories).<br><br>
@@ -50,6 +50,13 @@ const GedeonTS = {
 </p>
 
 ---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gedeonts&show_icons=true&locale=en&layout=compact" alt="gedeonts" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gedeonts&show_icons=true&locale=en" alt="gedeonts" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gedeonts&" alt="gedeonts" /></p>
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em>Meeting people really delights me so if you want to say hello, I'll be happy to meet you! 😊 </em>
 
