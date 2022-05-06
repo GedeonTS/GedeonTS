@@ -53,7 +53,7 @@ const GedeonTS = {
 <div sytle="width:100%">
 <p><img align="left" style="width:60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gedeonts&show_icons=true&locale=en&layout=compact" alt="gedeonts" /></p></br>
 
-<p>&nbsp;<img align="center" style="width:60%" src="https://github-readme-stats.vercel.app/api?username=gedeonts&show_icons=true&locale=en" alt="gedeonts" /></p>
+<p>&nbsp;<img align="center" style="width:60%" src="https://github-readme-stats.vercel.app/api?username=gedeonts&show_icons=true&locale=en" alt="gedeonts" /></p></br>
 
 <p>&nbsp;<img  style="width:60%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gedeonts&" alt="gedeonts" /></p>
 </div>
