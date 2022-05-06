@@ -50,7 +50,7 @@ const GedeonTS = {
 </p>
 
 ---
-<div sytle="width:100%">
+<div sytle="display:flex">
 <p><img align="left" style="width:60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gedeonts&show_icons=true&locale=en&layout=compact" alt="gedeonts" /></p>
 
 <p><img align="center" style="width:60%" src="https://github-readme-stats.vercel.app/api?username=gedeonts&show_icons=true&locale=en" alt="gedeonts" /></p>
