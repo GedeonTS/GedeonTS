@@ -19,12 +19,9 @@
 <img  align="center"  src="https://img.icons8.com/doodle/2x/instagram.png"  height="40"  width="40"  /></a>
 </p>
 
-<br/>
-<img align='right' src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" width="300"><br>
-
 ### About Me  <br>
 
-- 🎓 I hold a bachelor degree in Electronics and telecommunications Engineering from Kigali Independent University.</br><br>
+- 🎓 I'm a software developer, holding a bachelor degree in Electronics and telecommunications Engineering from Kigali Independent University.</br><br>
 -  👩‍💻 I’m currently training to become a **Full-Stack Software Engineer** in a remote and multicultural environment at 
 [Microverse](https://www.microverse.org/). <br></br>
 - 💻 All **my projects** are available [here.](https://github.com/GedeonTS?tab=repositories).<br><br>
