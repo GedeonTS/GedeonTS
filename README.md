@@ -40,7 +40,6 @@ const GedeonTS = {
   challenge: ["I am sharpening my developer skills and picking up TypeScript"]
 }
 ```
-
 ---
 
 
