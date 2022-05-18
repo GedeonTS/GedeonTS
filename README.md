@@ -46,12 +46,15 @@ const GedeonTS = {
 </p>
 
 ---
-<div sytle="display:flex">
-<img align="left" style="width:60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gedeonts&show_icons=true&locale=en&layout=compact" alt="gedeonts" />
-<img align="center" style="width:60%" src="https://github-readme-stats.vercel.app/api?username=gedeonts&show_icons=true&locale=en" alt="gedeonts" />
-<img  style="width:60%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gedeonts&" alt="gedeonts" />
-</div>
-
+<p align="center">&nbsp;
+ 
+| Activities  |   Languages  |
+| ----------- | ------------ |
+ | <img align="center" src="https://github-readme-stats.vercel.app/api?username=gedeonts&show_icons=true&theme=tokyonight" alt="gedeonts" width="410" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gedeonts&show_icons=true&theme=tokyonight&layout=compact" alt="gedeonts" />|
+</p>
+<p align="center">&nbsp;
+<img  width:"500" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gedeonts&" alt="gedeonts" />
+  </p>
 <img  src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em>Meeting people really delights me so if you want to say hello, I'll be happy to meet you! 😊 </em>
 
 
