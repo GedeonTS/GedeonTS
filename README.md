@@ -50,7 +50,7 @@ const GedeonTS = {
  
 | Activities  |   Languages  |
 | ----------- | ------------ |
- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=gedeonts&show_icons=true&theme=tokyonight" alt="gedeonts" width="410" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gedeonts&show_icons=true&theme=tokyonight&layout=compact" alt="gedeonts" />|
+ | <img align="center" src="https://github-readme-stats.vercel.app/api?username=gedeonts&show_icons=true&theme=tokyonight" alt="gedeonts" width="410" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gedeonts&show_icons=true&theme=tokyonight&layout=compact" alt="gedeonts" width="410" />|
 </p>
 <p align="center">&nbsp;
 <img  width:"500" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gedeonts&" alt="gedeonts" />
