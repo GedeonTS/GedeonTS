@@ -43,6 +43,7 @@ const GedeonTS = {
 ### Certificates & Licenses 🥇
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/9ff1c1c4-b288-4851-a8aa-41789ae574ce" target="blank"><img src="./certificate.png" width="80"></a> 
+   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/52f231f6-6e05-4d3b-9dc2-1ab2a6e79f0c#gs.39dv5d" target="blank"><img src="https://templates.images.credential.net/15959755104909798720520579501098.png" width="80"></a> 
 </p>
 
 ---
