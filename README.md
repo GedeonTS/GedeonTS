@@ -32,9 +32,9 @@ const GedeonTS = {
   pronouns: ["Him","he"],
   location:["Kigali","Rwanda"],
   code: ["Python","JavaScript", "React", "Redux", "Ruby on Rails", "HTML/CSS", "Semantic UI", "Bootstrap"],
-  mostPrefered:["JavaScript"],
-  mostUsed:[ "JavaScript","HTML,CSS"],
-  challenge: ["I am sharpening my developer skills and picking up TypeScript"]
+  mostPrefered:["React"],
+  mostUsed:[ "React"],
+  challenge: ["I am building web applications and APIs"]
 }
 ```
 ---
