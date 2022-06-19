@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm Gedeon!<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"></h1>
 
-
 <!-- Social icons section -->
 <p align="center">
 <a  href="https://twitter.com/Gedeon191"  target="_blank">
