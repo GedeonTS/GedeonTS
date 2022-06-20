@@ -5,10 +5,10 @@
 <a  href="https://twitter.com/Gedeon191"  target="_blank">
 <img  align="center"  src="https://img.icons8.com/doodle/2x/twitter.png" height="40"  width="40"  /></a>
 &#8287;&#8287;&#8287;
-<a  href="https://www.linkedin.com/in/ushindi-gedeon-73032a228"  target="_blank">
+<a  href="https://www.linkedin.com/in/ushindi-gedeon"  target="_blank">
 <img  align="center"  src="https://img.icons8.com/doodle/2x/linkedin.png" height="40"  width="40"  /></a>
 &#8287;&#8287;&#8287;
-<a href="mailto:taheny.gedeontshobohwa1@gmail.com" target="_blank">
+<a href="mailto:gedeontshobohwa1@gmail.com" target="_blank">
 <img  align="center"  src="https://img.icons8.com/doodle/2x/gmail.png"  height="40"  width="40"  /></a> 
 &#8287;&#8287;&#8287;
 <a  href="https://www.facebook.com/gedeon.tshobohwa/"  target="_blank">
