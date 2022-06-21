@@ -20,7 +20,7 @@
 
 ### About Me  <br>
 
-- 🎓 I'm a software developer, holding a bachelor degree in Electronics and telecommunications Engineering from Kigali Independent University.</br><br>
+- 🎓 I'm a software developer, holding a bachelor degree in Electronics and Telecommunications Engineering from Kigali Independent University.</br><br>
 -  👩‍💻 I’m currently training to become a **Full-Stack Software Engineer** at 
 [Microverse](https://www.microverse.org/), a remote and multicultural environment<br></br>
 - 💻 All **my projects** are available [here.](https://github.com/GedeonTS?tab=repositories).<br><br>
