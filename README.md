@@ -27,7 +27,7 @@
 ---
 ```javascript
 const GedeonTS = {
-  Status: "Full-stack web developer",
+  Status: ["Full-stack web developer"],
   pronouns: ["Him","he"],
   location:["Kigali","Rwanda"],
   code: ["Python","JavaScript", "React", "Redux", "Ruby on Rails", "HTML/CSS", "Semantic UI", "Bootstrap"],
