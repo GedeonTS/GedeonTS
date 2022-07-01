@@ -43,6 +43,7 @@ const GedeonTS = {
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/9ff1c1c4-b288-4851-a8aa-41789ae574ce" target="blank"><img src="./certificate.png" width="80"></a> 
    &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/52f231f6-6e05-4d3b-9dc2-1ab2a6e79f0c#gs.39dv5d" target="blank"><img src="https://templates.images.credential.net/15959755104909798720520579501098.png" width="80"></a> 
+     &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/e7a66d25-da05-47dd-ba42-a89ce9d6c5a7#gs.4kfxvi" target="blank"><img src="https://templates.images.credential.net/15790419775515809487933217124360.png" width="80"></a> 
 </p>
 
 ---
@@ -56,20 +57,3 @@ const GedeonTS = {
 <img  width:"500" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gedeonts&" alt="gedeonts" />
   </p>
 <img  src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em>Meeting people really delights me so if you want to say hello, I'll be happy to meet you! 😊 </em>
-
-
-
-<!--
-**GedeonTS/GedeonTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
