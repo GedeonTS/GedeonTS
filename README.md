@@ -20,20 +20,21 @@
 
 ### About Me  <br>
 
-- 🎓 I'm a software developer, holding a bachelor degree in Electronics and Telecommunications Engineering from Kigali Independent University.</br><br>
--  👩‍💻 I’m currently training to become a **Full-Stack Software Engineer** at 
-[Microverse](https://www.microverse.org/), a remote and multicultural environment<br></br>
-- 💻 All **my projects** are available [here.](https://github.com/GedeonTS?tab=repositories).<br><br>
+- 🎓 I'm a full **Full-Stack Software Engineer** graduated from [Microverse](https://www.microverse.org/) a remote and multicultural community, I also hold a degree in Electronics and Telecommunications Engineering from Kigali Independent University.
+
+-  👩‍💻 I’m currently working on a mobile project with react native and Ruby on Rails: [Live-Info](https://github.com/GedeonTS/Live-Info)
+
+- 💻 All **my projects** are available [here](https://github.com/GedeonTS?tab=repositories).<br><br>
 ---
 ```javascript
 const GedeonTS = {
-  Status: ["Full-stack web developer"],
+  Status: "Full-stack web developer",
   pronouns: ["Him","he"],
   location:["Kigali","Rwanda"],
-  code: ["Python","JavaScript", "React", "Redux", "Ruby on Rails", "HTML/CSS", "Semantic UI", "Bootstrap"],
-  mostPrefered:["React"],
-  mostUsed:[ "React"],
-  challenge: ["I am building web applications and APIs"]
+  code: ["React","React Native", "Ruby on Rails"],
+  mostPrefered:"React",
+  mostUsed: "React",
+  challenge: "I am building web applications and APIs"
 }
 ```
 ---
