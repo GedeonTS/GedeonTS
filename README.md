@@ -44,6 +44,7 @@ const GedeonTS = {
    &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/52f231f6-6e05-4d3b-9dc2-1ab2a6e79f0c#gs.39dv5d" target="blank"><img src="https://templates.images.credential.net/15959755104909798720520579501098.png" width="80"></a> 
      &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/e7a66d25-da05-47dd-ba42-a89ce9d6c5a7#gs.4kfxvi" target="blank"><img src="https://templates.images.credential.net/15790419775515809487933217124360.png" width="80"></a> 
   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/fa8a6cc9-2a48-4e34-9626-29e30d2a16a3#gs.a1jt1x" target="blank"><img src="https://templates.images.credential.net/15790420075846753839720457960174.png" width="80"></a>
+   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/8a65028d-e9e7-4cc4-99f8-f54137a39c3e#gs.f897sh" target="blank"><img src="https://templates.images.credential.net/15790421063942253832023806501758.png" width="80"></a>
 </p>
 
 ---
