@@ -22,7 +22,10 @@
 
 - 🎓 I'm a full **Full-Stack Software Engineer** graduated from [Microverse](https://www.microverse.org/) a remote and multicultural community, I also hold a degree in Electronics and Telecommunications Engineering from Kigali Independent University.
 
--  👩‍💻 I’m currently working on a mobile project with react native and Ruby on Rails: [Live-Info](https://github.com/GedeonTS/Live-Info)
+-  👩‍💻 I’m currently working on:
+  -   a mobile project with react native and Ruby on Rails: [Live-Info](https://github.com/GedeonTS/Live-Info)
+  -   the Afrinnovators official website, using React: [Afrinnovators](https://github.com/GedeonTS/Afrinnovators)
+  -   Umoja business management app at Afrinnovators
 
 - 💻 All **my projects** are available [here](https://github.com/GedeonTS?tab=repositories).<br><br>
 ---
