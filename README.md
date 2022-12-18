@@ -22,7 +22,7 @@
 
 - 🎓 I'm a full **Full-Stack Software Engineer** graduated from [Microverse](https://www.microverse.org/) a remote and multicultural community, I also hold a degree in Electronics and Telecommunications Engineering from Kigali Independent University.
 
--  👩‍💻 I’m currently woking on a full-stack business management project, reviewing projects and contributing on the Uamuzi App.
+-  👩‍💻 I’m currently working on a full-stack business management project, reviewing projects, and contributing to the Uamuzi App.
 
 - 💻 All my **public** projects are available [here](https://github.com/GedeonTS?tab=repositories).<br><br>
 ---
