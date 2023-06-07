@@ -24,7 +24,7 @@
 
 - 🎓 I'm a full **Full-Stack Software Engineer** graduated from [Microverse](https://www.microverse.org/) a remote and multicultural community, I also hold a degree in Electronics and Telecommunications Engineering from Kigali Independent University.
 
--  👩‍💻 I’m currently working on a full-stack business management project, reviewing projects, and contributing to the Uamuzi App.
+-  👩‍💻 I’m currently working on as software engineer at Torre.
 
 - 💻 All my **public** projects are available [here](https://github.com/GedeonTS?tab=repositories).<br><br>
 ---
@@ -33,7 +33,7 @@ const GedeonTS = {
   Status: "Full-stack web developer",
   pronouns: ["Him","he"],
   location:["Kigali","Rwanda"],
-  strengths: ["React","React Native", "Ruby on Rails", "Nodejs"]
+  strengths: ["Frontend development", "Backend development", "Proactiveness", "Team work"]
 }
 ```
 ---
