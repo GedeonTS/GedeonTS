@@ -22,7 +22,7 @@
 
 ### About Me  <br>
 
-- 🎓 I'm a full **Full-Stack Software Engineer** graduated from [Microverse](https://www.microverse.org/) a remote and multicultural community, I also hold a degree in Electronics and Telecommunications Engineering from Kigali Independent University.
+- 🎓 I'm a ** Software Engineer** and a lifelong learner.
 
 -  👩‍💻 I’m currently working as software engineer at Torre.
 
