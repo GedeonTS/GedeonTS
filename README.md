@@ -22,7 +22,7 @@
 
 ### About Me  <br>
 
-- 🎓 I'm a ** Software Engineer** and a lifelong learner.
+- 🎓 I'm a **Software Engineer** and **lifelong learner**.
 
 -  👩‍💻 I’m currently working as software engineer at Torre.
 
