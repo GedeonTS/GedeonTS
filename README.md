@@ -13,11 +13,6 @@
 <a href="mailto:gedeontshobohwa1@gmail.com" target="_blank">
 <img  align="center"  src="https://img.icons8.com/doodle/2x/gmail.png"  height="40"  width="40"  /></a> 
 &#8287;&#8287;&#8287;
-<a  href="https://www.facebook.com/gedeon.tshobohwa/"  target="_blank">
-<img  align="center"  src="https://img.icons8.com/doodle/2x/facebook.png" height="40"  width="40"  /></a>
-&#8287;&#8287;&#8287;
-<a href="https://www.instagram.com/ushindi_gedeon/" target="_blank">
-<img  align="center"  src="https://img.icons8.com/doodle/2x/instagram.png"  height="40"  width="40"  /></a>
 </p>
 
 ### About Me  <br>
