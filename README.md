@@ -19,8 +19,6 @@
 
 - 🎓 I'm a **Software Engineer** and **lifelong learner**.
 
--  👩‍💻 I’m currently working as software engineer at Torre.
-
 - 💻 All my **public** projects are available [here](https://github.com/GedeonTS?tab=repositories).<br><br>
 ---
 ```javascript
