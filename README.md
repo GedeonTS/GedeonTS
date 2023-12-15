@@ -20,16 +20,7 @@
 - 🎓 I'm a **Software Engineer** and **lifelong learner**.
 
 - 💻 All my **public** projects are available [here](https://github.com/GedeonTS?tab=repositories).<br><br>
----
-```javascript
-const GedeonTS = {
-  Status: "Full-stack web developer",
-  pronouns: ["Him","he"],
-  location:["Kigali","Rwanda"],
-  strengths: ["Frontend development", "Backend development", "Proactiveness", "Team work"]
-}
-```
----
+
 
 ### Certificates & Licenses 🥇
 <p align="left">
