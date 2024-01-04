@@ -38,7 +38,7 @@
 ---
 <p align="center">&nbsp;
  
-| Activities  |   Languages  |
+| Activities  |   Contributions  |
 | ----------- | ------------ |
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=gedeonts&show_icons=true&theme=tokyonight" alt="gedeonts" width="410" /> | <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gedeonts&theme=tokyonight" alt="gedeonts" width="410" /> |
 </p>
