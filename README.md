@@ -18,9 +18,9 @@
 &#8287;&#8287;&#8287;
 </p>
 
-### About Me  <br>
+### About Me  <be>
 
-- [x] I'm a **Software Engineer** and **lifelong learner**.
+I'm a **Software Engineer** and **lifelong learner**.
 
 > Detail-oriented with 2+ years of experience working remotely.
 
