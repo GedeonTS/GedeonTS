@@ -1,7 +1,6 @@
 
 <h1 align="center">Ushindi Gedeon<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GedeonTS&label=Profile%20views&color=0e75b6&style=flat" alt="estherstarr" /> </p>
 <!-- Social icons section -->
 <p align="center">
 <a  href="https://twitter.com/Gedeon191"  target="_blank">
