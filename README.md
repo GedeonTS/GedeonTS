@@ -21,7 +21,7 @@
 
 I'm a **Software Engineer** and **lifelong learner**.
 
-> Detail-oriented with 2+ years of experience working remotely.
+> Detail-oriented with 3+ years of experience working remotely.
 
 
 
