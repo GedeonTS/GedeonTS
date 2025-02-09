@@ -37,7 +37,9 @@ I'm a **Software Engineer** and **lifelong learner**
 ---
 <p align="center">&nbsp;
  
-
+| Activities | Contributions | Top Languages |
+| ---------- | ------------- | ------------- |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=gedeonts&show_icons=true&theme=nightowl" alt="gedeonts" width="410" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gedeonts&theme=nightowl" alt="gedeonts" width="410" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gedeonts&layout=compact&theme=nightowl" alt="gedeonts" width="410" /> |
 
 ### 🧰 Languages, Frameworks and libraries
 <p>
