@@ -21,7 +21,7 @@
 
 I'm a **Software Engineer** and **lifelong learner**
 
-> 3 years of experience
+> 3+ years of experience
 
 
 
