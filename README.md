@@ -22,7 +22,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate **Software Engineer** with over **3 years of experience** in building modern and scalable web applications. I love learning, solving problems, and sharing knowledge.
+I'm a passionate **Software Engineer** with over **4 years of experience** in building modern and scalable web applications. I love learning, solving problems, and sharing knowledge.
 
 💡 Always exploring new technologies and ideas  
 🚀 Currently focusing on building great user experiences  
