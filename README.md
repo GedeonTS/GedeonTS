@@ -26,7 +26,8 @@ I'm a passionate **Software Engineer** with over **3 years of experience** in bu
 
 💡 Always exploring new technologies and ideas  
 🚀 Currently focusing on building great user experiences  
-💬 Ask me about React, Node.js, Laravel, TypeScript, PHP or anything tech-related
+💬 Interested in SaaS, AI-powered products, scalable backend systems, modern full-stack development, or open-source collaboration? Let’s connect.
+
 
 ---
 
