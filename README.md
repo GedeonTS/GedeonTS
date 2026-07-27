@@ -22,7 +22,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Senior IAM & Full-Stack Engineer** specializing in secure authentication, identity federation, and scalable cloud-native architectures. I build robust, production-grade applications with a heavy focus on user lifecycle management, privacy compliance, and seamless digital product experiences.
+I am a ** Full-Stack Engineer** specializing in secure authentication, identity federation, and scalable cloud-native architectures. I build robust, production-grade applications with a heavy focus on user lifecycle management, privacy compliance, and seamless digital product experiences.
 
 🔒 **Identity & Access Management:** Deeply focused on OAuth2, OpenID Connect (OIDC), SAML, Single Sign-On (SSO), and Headless Identity architectures.
 🚀 **Core Engineering:** Expert in crafting scalable APIs (Node.js, Ruby on Rails) and high-performance frontends (React, Vue.js, Next.js).
